@@ -65,6 +65,10 @@ a:active {
   border-top: 2px solid lightgrey; /* Top border styles */
 }
 
+.primary-content,
+.secondary-content {
+  width: 60%
+}
 
 
 
