@@ -124,7 +124,12 @@ img {
 	}
 
 	.main-nav {
-		
+		display: inline-block;
+		margin-left: 15px;
+	}
+
+	.tagline {
+		font-size: 1.4em;
 	}
 
 	/* ---- Float clearfix ---- */
