@@ -124,6 +124,11 @@ img {
 		float: left;
 	}
 
+	.primary,
+	.secondary {
+		width: 50%;
+	}
+
 	.main-nav {
 		display: inline-block;
 		margin-left: 15px;
