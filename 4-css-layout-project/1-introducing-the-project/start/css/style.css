@@ -83,6 +83,13 @@ img {
 .banner {
 	color: #fff;
 	background: #3acec2;
+	padding: 3.2em 0;
+	margin-bottom: 60px;
+}
+
+.col {
+	padding-right: 1em;
+	padding-left: 1em;
 }
 
 .main-footer {
@@ -95,6 +102,10 @@ img {
 
 .logo {
 	width: 190px;
+}
+
+.headline {
+	margin-bottom: 0;
 }
 
 /* ================================= 
