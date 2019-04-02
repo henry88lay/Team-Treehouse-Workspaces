@@ -119,7 +119,8 @@ img {
 		margin: 0 auto;
 	}
 
-	.name {
+	.name,
+	.col {
 		float: left;
 	}
 
