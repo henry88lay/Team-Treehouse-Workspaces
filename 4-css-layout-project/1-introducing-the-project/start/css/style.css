@@ -164,4 +164,11 @@ img {
 	.tertiary {
 		width: 30%;
 	}
+
+		/* ---- Float clearfix ---- */
+
+	.clearfix::after {
+		content: " ";
+		display: table;
+		clear: both;
 }
