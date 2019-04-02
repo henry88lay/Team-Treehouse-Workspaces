@@ -70,6 +70,16 @@ img {
 
 /* ---- Layout Containers ---- */
 
+.main-header {
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+.banner,
+.main-footer {
+	text-align: center;
+}
+
 .banner {
 	color: #fff;
 	background: #3acec2;
