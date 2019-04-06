@@ -39,6 +39,11 @@ a:hover {
   Positioning Styles
 ==================================== */
 
+.main-nav {
+	position: relative;
+	margin-top: 100px;
+}
+
 .ice-cream {
 	position: absolute;
 	top: 0;
@@ -47,6 +52,6 @@ a:hover {
 
 .tea {
 	position: absolute;
-	right: 6em;
-	bottom: 50%;
+	right: 0;
+	bottom: 0;
 }
