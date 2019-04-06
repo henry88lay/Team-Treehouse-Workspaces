@@ -6,7 +6,9 @@
   Apply a float to <li> tags inside <nav>.
   Make sure the floats follow the HTML source order.
 */
-
+nav li {
+  float: left;
+}
 
  
 
