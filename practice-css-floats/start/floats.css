@@ -43,7 +43,10 @@ nav li {
   Float '.article-content' so that it's positioned next to '.img-article'.
   Adjust the width of '.article-content' so that both elements are laid out side by side.
 */
-
+.article-content {
+  float: left;
+  width: 78%;
+}
 
 
 
