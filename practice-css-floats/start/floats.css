@@ -17,7 +17,10 @@ nav li {
   Float '.img-featured' so that content flows around its left side. 
   Apply a 15 pixel margin to the top, bottom and left sides.
 */
-
+.img-featured {
+  float: right;
+  margin: 15px 0 15px 15px;
+}
 
 
  
