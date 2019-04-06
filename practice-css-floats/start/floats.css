@@ -30,7 +30,10 @@ nav li {
   Float '.img-article' so that content flows around its right side.
   Apply a 20 pixel right margin.    
 */
-
+.img-article {
+  float: left;
+  margin-right: 20px;
+}
 
 
 
